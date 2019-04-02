@@ -13,5 +13,3 @@ In the simulator, there are sliders to control:
 3. Feedback
 
 The "Phaser.pd" file is the Pure Data patch for the effect.
-
-pd-for-ios is required. 
